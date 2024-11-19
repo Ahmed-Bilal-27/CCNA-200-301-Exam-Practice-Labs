@@ -1,0 +1,2 @@
+SW1(config)#enable password Ahmed_Bilal
+SW1(config-line)#password Ahmed_Bilal_Console
